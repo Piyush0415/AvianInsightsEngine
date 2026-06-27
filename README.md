@@ -1,4 +1,4 @@
-# Avian Insight Engine — Where Data Meets Nature 🐦✨
+# Avian Insights Engine — Where Data Meets Nature 🐦✨
 ## About
 One morning, while walking through a nearby park, I noticed fewer birds than usual. That simple observation made me realize that birds are more than just part of nature, they are indicators of our environment's health.
 
